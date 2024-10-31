@@ -7,11 +7,11 @@
 3. モデルのトレーニングと評価
 4. 結果の可視化と考察
    
-フォルダ構成
-images/: 課題の詳細とbmiの参考
-logs/: neural_network_main.ipynbから生成した評価の記録
-models/: トレーニングしたモデル
-insurance.csv: 本プロジェクト使用したデータセット
-neural_network_main.ipynb: PyTorchで書いたコード
-regression_main.ipynb: scikit-learnで書いたコード
-発表.pptx: マッチング面談で使用したスライド
+フォルダ構成  
+  images/: 課題の詳細とbmiの参考  
+  logs/: neural_network_main.ipynbから生成した評価の記録  
+  models/: トレーニングしたモデル  
+  insurance.csv: 本プロジェクト使用したデータセット  
+  neural_network_main.ipynb: PyTorchで書いたコード  
+  regression_main.ipynb: scikit-learnで書いたコード  
+  発表.pptx: マッチング面談で使用したスライド  
